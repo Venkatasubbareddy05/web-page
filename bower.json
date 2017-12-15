@@ -1,0 +1,17 @@
+{
+  "name": "webpage",
+  "description": "web page components",
+  "main": "index.js",
+  "authors": [
+    "kvsr <kvsr444@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
